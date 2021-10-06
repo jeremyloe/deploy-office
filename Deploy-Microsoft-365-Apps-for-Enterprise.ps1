@@ -27,8 +27,8 @@ Clear-Host
 ## Variables
 $odtDir = "C:\ODT"
 $odtPath = "C:\ODT\Setup.exe"
-$odtUrl = "https://raw.githubusercontent.com/johngagefaulkner/PowerShell/main/Microsoft/Office/ODT/setup.exe"
-$configUrl = "https://raw.githubusercontent.com/johngagefaulkner/PowerShell/main/Microsoft/Office/ODT/Configurations/Custom-Microsoft-365-Apps-for-Enterprise-Configuration.xml"
+$odtUrl = "https://raw.githubusercontent.com/jeremyloe/deploy-office/main/setup.exe"
+$configUrl = "https://raw.githubusercontent.com/jeremyloe/deploy-office/main/Custom-Microsoft-365-Apps-for-Enterprise-Configuration.xml"
 $configPath = "C:\ODT\Custom-Microsoft-365-Apps-for-Enterprise-Configuration.xml"
 $logPath = "C:\ODT\Install.log"
 
